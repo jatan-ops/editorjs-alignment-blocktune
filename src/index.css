@@ -1,7 +1,4 @@
 
 .ce-tune-alignment--center {
-    text-align: center;
-}
-.ce-tune-alignment--left {
-    text-align: left;
+    padding-left: 30px;
 }
